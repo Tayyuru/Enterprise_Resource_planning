@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/erp-frontend.git
+git clone https://github.com/Tayyuru/Enterprise_Resource_planning.git
 Navigate to the project directory:
 
 bash
@@ -57,3 +57,4 @@ Customer Management
 Orders Management
 
 Orders Calendar View
+
